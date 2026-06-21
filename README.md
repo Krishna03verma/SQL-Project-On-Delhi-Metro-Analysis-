@@ -139,19 +139,23 @@ This project helps transportation analysts and planners:
 
 ### Station Count Analysis
 
+<img width="747" height="379" alt="Screenshot 2026-06-22 005923" src="https://github.com/user-attachments/assets/edb13ac9-d61b-4cda-83ef-76018121d02d" />
 
 
 ### Junction Station Analysis
 
-📸 Add Screenshot Here
+<img width="712" height="428" alt="Screenshot 2026-06-22 005940" src="https://github.com/user-attachments/assets/227c798d-7f6f-41c9-b7c8-225b6825dd77" />
+
 
 ### Interchange Station Analysis
 
-📸 Add Screenshot Here
+<img width="724" height="410" alt="Screenshot 2026-06-22 005954" src="https://github.com/user-attachments/assets/ab2fb08b-9cee-40f0-9386-0ceb5e2440a1" />
+
 
 ### Route Navigation Analysis
 
-📸 Add Screenshot Here
+<img width="865" height="467" alt="Screenshot 2026-06-22 010501" src="https://github.com/user-attachments/assets/1c5010eb-1d7d-4e84-8ded-eabaf119aeed" />
+
 
 ---
 
